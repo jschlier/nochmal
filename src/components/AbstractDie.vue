@@ -1,7 +1,6 @@
 <script>
 export default {
   abstract: true,
-  expose: ['roll', 'toggle'],
   data() {
     return {
       disabled: false,
